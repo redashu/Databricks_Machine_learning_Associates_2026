@@ -28,6 +28,14 @@ Study resources for the Databricks Machine Learning Associate certification.
 
 **Coupon Code:** `JUNE2026`
 
+## Study Notes
+
+- [Data Preparation](datapreparation.md)
+- [ML Model Development](ML_model_development.md)
+- [ML Model Deployment](ML_model_deployment.md)
+- [ML Operations](ml_operations.md)
+- [Exam Final Revision Sheet](exam_misc.md)
+
 
 
 
