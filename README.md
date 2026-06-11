@@ -2,7 +2,7 @@
 
 Study resources for the Databricks Machine Learning Associate certification.
 
-![Databricks ML Associate](genai.png)
+![Databricks ML Associate](ml.png)
 
 ### YouTube Links for ML Understanding
 
