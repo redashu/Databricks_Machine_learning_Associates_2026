@@ -28,7 +28,7 @@ Study resources for the Databricks Machine Learning Associate certification.
 
 ## Register for Exam 
 
-- [Click_Here](https://www.databricks.com/learn/certification/machine-learning-associate?itm_source=www&itm_category=learn&itm_page=certification&itm_location=ML%20Engineer%20&itm_component=card&itm_offer=machine-learning-associate)
+- Webassessor [Click_Here](https://www.webassessor.com/databricks)
 
 **Coupon Code for Second Udemy link :** `JUNE2026`
 
