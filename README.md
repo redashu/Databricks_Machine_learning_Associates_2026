@@ -26,7 +26,7 @@ Study resources for the Databricks Machine Learning Associate certification.
 2. [Databricks Certified Machine Learning Associate 2026 Exam](https://www.udemy.com/course/databricks-certified-machine-learning-associates-2026-exam)
 - Most relevant to current topics and recent reviews.
 
-**Coupon Code:** `JUNE2026`
+**Coupon Code for Second Udemy link :** `JUNE2026`
 
 ## Study Notes
 
